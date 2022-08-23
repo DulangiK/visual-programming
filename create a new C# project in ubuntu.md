@@ -45,4 +45,7 @@ Console.Write($"{Environment.NewLine}Press any key to exit...");
 Console.ReadKey(true);
 ```
 
+Now in the terminal type and press enter
+`dotnet run`
+
 
